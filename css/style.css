@@ -1155,8 +1155,6 @@ a {
     height: 64px;
 }
 
-.work-steps .box .text {}
-
 .work-steps .box .text h3 {
     font-size: 22px;
 }
@@ -1264,7 +1262,6 @@ a {
     padding: 20px;
     flex-direction: column;
     border-radius: 0;
-}
 }
 
 .events .subscribe form input[type="email"] {
